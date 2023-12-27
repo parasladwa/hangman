@@ -75,7 +75,6 @@ def main():
     
     play = input("do you want to play handman [ Y / N ]")
     
-    
     while play == 'Y':
         
         game()
